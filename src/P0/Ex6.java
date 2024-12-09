@@ -1,3 +1,5 @@
+package P0;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -6,7 +8,7 @@ import java.io.FileWriter;
 public class Ex6 {
     public static void main(String[] args) {
 
-        String inputFile = "/home/48095097g/IdeaProjects/M06_P0/media/Ex6.txt";
+        String inputFile = "/home/48095097g/IdeaProjects/M06_P0/media/P0.Ex6.txt";
         String outputFile = "/home/48095097g/IdeaProjects/M06_P0/media/Ex6_Mayusculas.txt";
 
         try {
