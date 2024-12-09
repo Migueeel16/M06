@@ -5,6 +5,9 @@ import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 
+//Modifica el programa anterior per a llegir i escriure línies completes
+// utilitzant BufferedReader i BufferedWriter per optimitzar
+// la lectura i escriptura en fitxers grans.
 public class Ex6 {
     public static void main(String[] args) {
 

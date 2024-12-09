@@ -5,6 +5,11 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 
+
+//Crea una aplicació en Java que llegeixi una imatge d'un fitxer, la modifiqui
+// canviant els colors a escala de grisos, i després guardi la imatge
+// modificada en un nou fitxer.
+//Usar classes de manipulació d'imatges com BufferedImage i ImageIO.
 public class Ex8 {
     public static void main(String[] args) {
 

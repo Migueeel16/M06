@@ -5,6 +5,10 @@ import java.io.BufferedOutputStream;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
+//També podem fer servir classes de tipus Buffered per a l’accés a
+// fitxers binaris. Modifica el programa anterior per a copiar una
+// imatge utilitzant BufferedInputStream i BufferedOutputStream per
+// optimitzar la lectura i escriptura en fitxers grans.
 public class Ex7 {
     public static void main(String[] args) {
 
